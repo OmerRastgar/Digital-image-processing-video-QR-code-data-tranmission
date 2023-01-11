@@ -16,7 +16,9 @@ believe that this technology has the potential to have a significant
 impact on a variety of applications, including video marketing,
 education, and entertainment.
 
-![Untitled video](https://user-images.githubusercontent.com/62338143/211208140-c56a7512-0752-46f0-955d-1151241ec6f4.gif)
+
+![download (2)](https://user-images.githubusercontent.com/62338143/211718160-bb82cd80-736c-464a-8d04-d321dc68b102.png)
+
 
 
 
@@ -34,3 +36,7 @@ the capabilities of these codes, businesses and organizations can
 create more engaging and immersive experiences for their customers
 and users, and facilitate the exchange of information in a more
 efficient and convenient way
+
+
+
+![Untitled video](https://user-images.githubusercontent.com/62338143/211208140-c56a7512-0752-46f0-955d-1151241ec6f4.gif)
